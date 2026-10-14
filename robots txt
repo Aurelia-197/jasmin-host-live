@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://aurelia-197.github.io/jasmin-host-live/sitemap.xml
