@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://aurelia-197.github.io/Gf-tam-global-LJ-premium-livestreaming/sitemap.xml
+
+# GF TAM STUDIO - GF TAM STUDIO - Remote Jobs $500-$1000/14 Days + $6000 Bonus
+# officiallivestreaming - aureliaglobal197@gmail.com - 0881011654730
